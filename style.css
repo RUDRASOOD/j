@@ -2,7 +2,7 @@
 {
     font-size: 23px;
     width: 100%;
-    margin: 0px;
+    margin-top: 0px;
 }
 .note
 {
@@ -11,7 +11,6 @@ color: rgb(255, 255, 255);
 }
 body{
     background-size: cover;
-    background-position: center;    
 }
 .div_speed
 {
@@ -41,4 +40,13 @@ border-radius: 100px;
 {
     font-size: 23px;
     margin: 15px;
+}
+.play_button
+{
+    width:130px;
+    font-size:25px;
+}
+canvas{
+    border:5px solid white;
+    border-radius:20px;
 }
